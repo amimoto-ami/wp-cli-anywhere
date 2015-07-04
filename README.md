@@ -10,7 +10,7 @@
 curl -L https://raw.githubusercontent.com/amimoto-ami/wp-cli-anywhere/master/wp-cli-anywhere.sh | bash
 ```
 
-The try following at any directory.
+Then try following at any directory.
 
 ```
 wp plugin list
