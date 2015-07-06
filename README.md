@@ -6,6 +6,14 @@
 
 ## How to use
 
+### SSH into your instance
+
+```
+ssh ec2-user@<ip-address>
+```
+
+### Then run the following command
+
 ```
 curl -L https://raw.githubusercontent.com/amimoto-ami/wp-cli-anywhere/master/wp-cli-anywhere.sh | bash
 ```
